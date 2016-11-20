@@ -2,6 +2,11 @@ public class TestingOnly
 {
   public static void main(String[] args)
   {
-  system.out.println("Is this thing on?");
+    system.out.println("Is this thing on?");
+  }
+  public static blahBlahBlah(String commit)
+  {
+    int n = commit.length();
+    print
   }
 }
